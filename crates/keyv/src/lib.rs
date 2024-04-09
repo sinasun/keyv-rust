@@ -1,4 +1,4 @@
-mod store;
+pub mod store;
 mod helpers;
 
 use crate::store::Store;

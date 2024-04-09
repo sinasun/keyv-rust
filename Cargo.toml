@@ -1,4 +1,7 @@
 [workspace]
+resolver = "2"
 members = [
     "crates/keyv",
+	"crates/keyv-redis",
+	"crates/examples"
 ]

@@ -105,6 +105,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "keyv-redis"
+version = "0.1.0"
+dependencies = [
+ "keyv",
+]
+
+[[package]]
+name = "lib_examples"
+version = "0.1.0"
+
+[[package]]
 name = "libc"
 version = "0.2.151"
 source = "registry+https://github.com/rust-lang/crates.io-index"
